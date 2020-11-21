@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 #### 🛠 *Languages and Tools*
 
 #### :chart_with_downwards_trend: *My statistics in Github*
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=prussian" />
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian&show_icons=true" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=prussian" />
+  </p>
 ###### :envelope: *Contact*
