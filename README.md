@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4><img align='center' src="https://github.com/Aitorgb/Aitorgb/blob/main/images/settings.svg" alt="icon" width='20px' height='20px' />  Languages and Tools</h4>
+## *Languages and Tools*
+## *Languages and Tools*
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=prussian" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian&show_icons=true" />
 
