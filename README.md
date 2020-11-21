@@ -1,8 +1,8 @@
 <img align='center' src="https://github.com/Aitorgb/Aitorgb/blob/main/images/bg-Aitor.jpg" alt="bg-Aitor" />
 
 
-### Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
-<hr/>
+## Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
+
 
 <!--
 **Aitorgb/Aitorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## *Languages and Tools*
+
 ## 🛠 *Languages and Tools*
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=prussian" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian&show_icons=true" />
