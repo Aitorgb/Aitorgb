@@ -1,4 +1,5 @@
-<img align='center' src="https://raw.githubusercontent.com/Aitorgb/Aitorgb/master/images/bg-Aitor" alt="bg-Aitor" />
+<img align='center' src="https://github.com/Aitorgb/Aitorgb/blob/main/images/bg-Aitor.jpg" alt="bg-Aitor" />
+
 
 ### Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
 <hr/>
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4><img align='center' src="https://github.com/Aitorgb/Aitorgb/blob/main/images/bg-Aitor.jpg" alt="bg-Aitor" />Languages and Tools</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=prussian" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian&show_icons=true" />
 
