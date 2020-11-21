@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I´m Aitor 👋
 
 <!--
 **Aitorgb/Aitorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.fithubusercontent.com/Aitorgb/Aitorgb/master/gh-header-image-cropped.png" alt="hola hola hola">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian" />
+
