@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=react&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=react&layout=compact)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aitorgb)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Aitorgb)
 
 
 ###### :envelope: *Contact*
