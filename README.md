@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 -->
 
 #### 🛠 *Languages and Tools*
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 #### :chart_with_downwards_trend: *My statistics in Github*
-<p>
+![](https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian&show_icons=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=prussian&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=prussian" />
-  </p>
+
 ###### :envelope: *Contact*
