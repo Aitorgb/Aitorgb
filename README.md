@@ -1,3 +1,5 @@
+<img align='center' src="https://raw.githubusercontent.com/Aitorgb/Aitorgb/master/images/bg-Aitor" alt="bg-Aitor" />
+
 ### Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
 <hr/>
 
