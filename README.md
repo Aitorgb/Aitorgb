@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🛠 *Languages and Tools*
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,#F7DF1E&logoColor=white&color=2bbc8a)
 
 #### :chart_with_downwards_trend: *My statistics in Github*
 
@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 
 
 ###### :envelope: *Contact*
+
+[Linkedin](https://www.linkedin.com/in/aitor-guerrero/)
+[Linkedin](https://www.linkedin.com/in/aitor-guerrero/)
+
