@@ -4,7 +4,7 @@
 ## Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
 
 I´m a full stack dev. I have a passion for learning and face new challenges.
-You can find me on <a href="https://www.linkedin.com/in/aitor-guerrero/"><img src="https://github.com/Aitorgb/Aitorgb/blob/main/images/linkedin.svg" height="16" width="16" ></a> , or on [:envelope:](mailto:aitorguerrero9@gmail.com)
+You can find me on <a href="https://www.linkedin.com/in/aitor-guerrero/"><img src="https://github.com/Aitorgb/Aitorgb/blob/main/images/linkedin.svg" height="18" width="18" ></a> , or on [:envelope:](mailto:aitorguerrero9@gmail.com)
 
 <!--
 **Aitorgb/Aitorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,16 +30,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Language-Php-informational?style=flat&#F7DF1E)
 ![](https://img.shields.io/badge/Language-Css3-informational?style=flat&#F7DF1E)
 ![](https://img.shields.io/badge/Language-Html5-informational?style=flat&#F7DF1E)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&#F1C40F)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&#F1C40F)
+![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat&#008f39)
 
 
 #### :chart_with_downwards_trend: *My statistics in Github*
 
 ![](https://github-readme-stats.vercel.app/api?username=Aitorgb&theme=react&show_icons=true)
 
-###### :envelope: *Contact*
-
-- Linkedin: [Linkedin](https://www.linkedin.com/in/aitor-guerrero/)
-- Email: [email](mailto:aitorguerrero9@gmail.com)
 
 
 
