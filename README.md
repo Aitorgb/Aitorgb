@@ -4,6 +4,7 @@
 ## Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
 
 I´m a full stack dev. I have a passion for learning and face new challenges.
+You can find me on []((https://www.linkedin.com/in/aitor-guerrero/)), or on [:envelope:](mailto:aitorguerrero9@gmail.com)
 <!--
 **Aitorgb/Aitorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
@@ -22,7 +23,13 @@ Here are some ideas to get you started:
 -->
 
 #### 🛠 *Languages and Tools*
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,#F7DF1E&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&#F7DF1E)
+![](https://img.shields.io/badge/Language-React-informational?style=flat&#F7DF1E)
+![](https://img.shields.io/badge/Language-NodeJs-informational?style=flat&#F7DF1E)
+![](https://img.shields.io/badge/Language-Php-informational?style=flat&#F7DF1E)
+![](https://img.shields.io/badge/Language-Css3-informational?style=flat&#F7DF1E)
+![](https://img.shields.io/badge/Language-Html5-informational?style=flat&#F7DF1E)
+
 
 #### :chart_with_downwards_trend: *My statistics in Github*
 
