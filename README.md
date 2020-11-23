@@ -3,7 +3,7 @@
 
 ## Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
 
-I´m a full stack dev. I have a passion for learning and face new challenges.
+I´m a full stack dev. I have a passion for learning and face new challenges.<br>
 You can find me on <a href="https://www.linkedin.com/in/aitor-guerrero/"><img src="https://github.com/Aitorgb/Aitorgb/blob/main/images/linkedin.svg" height="18" width="18" ></a> , or on [:envelope:](mailto:aitorguerrero9@gmail.com)
 
 <!--
