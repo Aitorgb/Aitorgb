@@ -4,7 +4,7 @@
 ## Hi, I´m Aitor 👋 Welcome to my GitHub Profile!
 
 I´m a full stack dev. I have a passion for learning and face new challenges.
-You can find me on <a href="https://www.linkedin.com/in/aitor-guerrero/"><img src="https://github.com/Aitorgb/Aitorgb/blob/main/images/linkedin.svg" align="left" height="20" width="20" ></a>, or on [:envelope:](mailto:aitorguerrero9@gmail.com)
+You can find me on <a href="https://www.linkedin.com/in/aitor-guerrero/"><img src="https://github.com/Aitorgb/Aitorgb/blob/main/images/linkedin.svg" height="16" width="16" ></a> , or on [:envelope:](mailto:aitorguerrero9@gmail.com)
 
 <!--
 **Aitorgb/Aitorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
