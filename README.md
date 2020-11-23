@@ -10,6 +10,7 @@ You can find me on <a href="https://www.linkedin.com/in/aitor-guerrero/"><img sr
 **Aitorgb/Aitorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
 https://shields.io/
+https://github.com/Ileriayo/markdown-badges
 Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitorgb&theme=react&layout=compact)
 
@@ -24,15 +25,16 @@ Here are some ideas to get you started:
 -->
 
 #### 🛠 *Languages and Tools*
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&#F7DF1E)
-![](https://img.shields.io/badge/Language-React-informational?style=flat&#F7DF1E)
-![](https://img.shields.io/badge/Language-NodeJs-informational?style=flat&#F7DF1E)
-![](https://img.shields.io/badge/Language-Php-informational?style=flat&#F7DF1E)
-![](https://img.shields.io/badge/Language-Css3-informational?style=flat&#F7DF1E)
-![](https://img.shields.io/badge/Language-Html5-informational?style=flat&#F7DF1E)
-![](https://img.shields.io/badge/Database-MySql-informational?style=flat&#F1C40F)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&#F1C40F)
-![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat&#008f39)
+
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat)
+![](https://img.shields.io/badge/Language-React-informational?style=flat)
+![](https://img.shields.io/badge/Language-NodeJs-informational?style=flat)
+![](https://img.shields.io/badge/Language-Php-informational?style=flat)
+![](https://img.shields.io/badge/Language-Css3-informational?style=flat)
+![](https://img.shields.io/badge/Language-Html5-informational?style=flat)
+![](https://img.shields.io/badge/Database-MySql-green?style=flat)
+![](https://img.shields.io/badge/Database-MongoDB-green?style=flat)
+![](https://img.shields.io/badge/Tools-VsCode-yellow?style=flat)
 
 
 #### :chart_with_downwards_trend: *My statistics in Github*
